@@ -1,8 +1,5 @@
 import requests
 import os
-import re
-import logging
-from geopy.location import Location
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 from house_dataclass import HouseWOZ
