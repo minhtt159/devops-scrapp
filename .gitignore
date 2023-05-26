@@ -1,0 +1,6 @@
+scrapp/
+instance/
+payload/
+.vscode/
+__pycache__/
+DS_Store
